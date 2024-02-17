@@ -1,12 +1,4 @@
-科学上网,白嫖节点,免费节点,免费梯子,免费机场,白嫖机场,免费VPN,免费V2Ray,免费Trojan,免费SSR, 每日多次更新,  سرور های جدید V2Ray,  سرور فعال V2ray, سرورهای vmess, لینک v2ray رایگان   
-配合推荐工具使用，效果更佳  
-程序自动收集节点，每日更新，请勿滥用，更新时间 **2024-02-17T13:19:21+08:00**，已运行**718**天  
-
-如果订阅地址无法正常访问，请自行搜索github加速网站  
-### 推荐工具  
-Android平台支持连接多种协议，支持节点测速APP: [SSRRAY](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)  
-跨平台，多协议节点批量测速工具: [LiteSpeedTest](https://github.com/xxf098/LiteSpeedTest/releases)  
-### 订阅地址  
+چندین و چند کانفیگ V2RAy  
 - `https://raw.githubusercontent.com/mianfeifq/share/main/data2024026.txt`  
 - `https://raw.nuaa.cf/mianfeifq/share/main/data2024026.txt`  
 ### 最新节点 
